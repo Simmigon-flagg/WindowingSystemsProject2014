@@ -1,0 +1,280 @@
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Window4.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Window4.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\updateControl.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\updateControl.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\updateControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\updateControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Release\Database1.sdf
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Release\GeneratedInternalTypeHelper.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Desktop\OurProject\PROJECT\bin\Release\Database1.sdf
+C:\Users\Flagg\Desktop\OurProject\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Flagg\Desktop\OurProject\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Desktop\OurProject\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\bin\Release\Database1.sdf
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\patientInfo.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\stop.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\Window3.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\patientInfo.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\stop.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\Window3.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Documents\GitHub\OurNewProject\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Release\PROJECT.pdb
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Release\Database1.sdf
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Release\PROJECT.exe.config
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Release\PROJECT.exe
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Release\PROJECT.pdb
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\addPatient.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\MainWindow.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\NameSearch.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\searchControl.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\viewPatientInfo.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\addPatient.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\MainWindow.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\NameSearch.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\searchControl.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\Menu.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\viewPatientInfo.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\App.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT_Content.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\Menu.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT.g.resources
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT.exe
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Release\PROJECT.pdb

@@ -1,0 +1,362 @@
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\documents\visual studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\updateControl.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\updateControl.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Jovy\Documents\Visual Studio 2010\Projects\PROJECT\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\updateControl.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\updateControl.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Desktop\PROJECT\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\updateControl.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\updateControl.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\updateControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\updateControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Documents\GitHub\OurProject\OurProject\PROJECT\obj\x86\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\patientInfo.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\EntityFramework.dll
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\System.Data.SQLite.dll
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\EntityFramework.xml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\bin\Debug\System.Data.SQLite.xml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jolanda Herring\Documents\GitHub\OurProject\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\stop.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\Window3.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\stop.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\Window3.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\To Jovy\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\Project2014\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\Project2014\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Desktop\forProject\Project2014\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Desktop\Revised_Project2014\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Jovy\Downloads\PROJECT_2014(Fixed)-2014-11-21\PROJECT 2014(Fixed)\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Desktop\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\Database1.sdf
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.exe.config
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.exe
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\bin\Debug\PROJECT.pdb
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.csprojResolveAssemblyReference.cache
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\addPatient.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\MainWindow.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\NameSearch.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\searchControl.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\viewPatientInfo.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\addPatient.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\NameSearch.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\searchControl.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\Menu.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\viewPatientInfo.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\App.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_Content.g.cs
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.cache
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT_MarkupCompile.lref
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\Menu.baml
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.g.resources
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\WpfApplication1.Properties.Resources.resources
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.csproj.GenerateResource.Cache
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.exe
+C:\Users\Flagg\Documents\Visual Studio 2010\Visual Studio 2010\Projects\Today\Windowing Systems Project 2014\PROJECT\obj\x86\Debug\PROJECT.pdb

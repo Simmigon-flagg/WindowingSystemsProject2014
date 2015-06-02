@@ -1,0 +1,56 @@
+﻿<UserControl x:Class="WpfApplication1.addPatient"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             mc:Ignorable="d" 
+             d:DesignHeight="359" d:DesignWidth="393" Background="{x:Null}" >
+    <Grid  Background="{x:Null}" Width="387" Height="374">
+        <TextBox Height="23" Margin="10,36,0,0" Name="txtFname" VerticalAlignment="Top" Background="White" HorizontalAlignment="Left" Width="178" />
+        <TextBox Height="23" Margin="0,36,16,0" Name="txtLname" VerticalAlignment="Top" Background="White" HorizontalAlignment="Right" Width="175" />
+        <TextBox Height="23" Margin="11,77,16,0" Name="txtAddress" VerticalAlignment="Top" Background="White" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="12,117,0,0" Name="txtDOB" VerticalAlignment="Top" Width="112" Background="White" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="131,117,0,0" Name="txtSSN" VerticalAlignment="Top" Width="111" Foreground="Black" Background="White" />
+        <TextBox Height="23" HorizontalAlignment="Left" Margin="249,117,0,0" Name="txtPhone" VerticalAlignment="Top" Width="122" Background="White" />
+        <ComboBox IsEditable="True" 
+                  IsReadOnly="True" 
+                  Text="--Select--" Height="23" HorizontalAlignment="Left" Margin="13,157,0,0" Name="cbGender" VerticalAlignment="Top" Width="110" >
+            <ComboBoxItem Content="M" />
+            <ComboBoxItem Content="F" />
+            </ComboBox>
+        <ComboBox IsEditable="True"
+            IsReadOnly="True"
+            Text="--Select--" Height="23" HorizontalAlignment="Left" Margin="132,158,0,0" Name="cbVeteran" VerticalAlignment="Top" Width="111">
+            <ComboBoxItem Content="Yes" />
+            <ComboBoxItem Content="No" />
+        </ComboBox>
+        <ComboBox 
+            IsEditable="True" 
+                  Text="--Select Health Concern--"
+            Height="23" HorizontalAlignment="Right" Margin="0,199,145,0" Name="cbHealthConcern" VerticalAlignment="Top" Width="229">
+            <ComboBoxItem Content="Asthma" />
+            <ComboBoxItem Content="Allergy" />
+            <ComboBoxItem Content="Ligaments and Bones" />
+            <ComboBoxItem Content="Diabetes" />
+            <ComboBoxItem Content="Hypertension" />
+            <ComboBoxItem Content="Blood transfusion" />
+            <ComboBoxItem Content="Trauma Injury" />
+            <ComboBoxItem Content="Flu" />
+            <ComboBoxItem Content="Antibiotitics" />
+        </ComboBox>
+        <Label Content="First Name" Height="28" HorizontalAlignment="Left" Margin="5,16,0,0" Name="label1" VerticalAlignment="Top" Foreground="Black" />
+        <Label Content="Last Name" Height="28" HorizontalAlignment="Right" Margin="0,16,130,0" Name="label2" VerticalAlignment="Top" />
+        <Label Content="Address" Height="28" HorizontalAlignment="Left" Margin="7,58,0,0" Name="label3" VerticalAlignment="Top" />
+        <Label Content="Date of Birth" Height="28" HorizontalAlignment="Left" Margin="8,98,0,0" Name="label4" VerticalAlignment="Top" />
+        <Label Content="Social Security " Height="28" HorizontalAlignment="Left" Margin="126,97,0,0" Name="label5" VerticalAlignment="Top" />
+        <Label Content="Phone" Height="28" HorizontalAlignment="Left" Margin="244,98,0,0" Name="label6" VerticalAlignment="Top" />
+        <Label Content="Gender" Height="28" HorizontalAlignment="Left" Margin="8,137,0,0" Name="label7" VerticalAlignment="Top" />
+        <Label Content="Veteran" Height="28" HorizontalAlignment="Left" Margin="128,138,0,0" Name="label8" VerticalAlignment="Top" Width="59" />
+        <Label Content="Add Patient" Height="45" HorizontalAlignment="Left" Margin="6,-13,0,0" Name="label9" VerticalAlignment="Top" FontSize="22" Width="160" />        
+        <ScrollViewer Height="88" HorizontalAlignment="Left" Margin="13,225,0,0" Name="scrollViewer1" VerticalAlignment="Top" Width="355">
+            <TextBox  Name="txtDescr" TextWrapping="Wrap" AcceptsReturn="True" AcceptsTab="True"/>
+        </ScrollViewer>        
+        <Label Content="Health Concern:" Height="28" HorizontalAlignment="Left" Margin="9,178,0,0" Name="label10" VerticalAlignment="Top" />
+        <CheckBox Content="Insurance Covered" Height="16" HorizontalAlignment="Left" Margin="16,319,0,0" Name="checkBox1" VerticalAlignment="Top" ContentStringFormat="Covered" />
+    </Grid>
+</UserControl>
